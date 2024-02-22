@@ -1,0 +1,43 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0091EA;
+}
+
+.centered-content {
+    text-align: center;
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.fa-location-pin {
+    color: white;
+    font-size: 18px;
+    padding-right: 4px;
+}
+
+.centered-content img {
+    max-width: 90%;
+    height: auto;
+}
+
+
+.centered-content p {
+    color: white;
+    line-height: 1.6;
+    margin-top: 0
+}
+
+.centered-content a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+.centered-content a:hover {
+    text-decoration: underline;
+}
